@@ -1,0 +1,13 @@
+
+--- New Upload 2026-03-14 00:00:59 ---
+Parsed Text: 
+
+--- DEBUG START 2026-03-14 00:03:35 ---
+RAW API RESPONSE: {"ParsedResults":[{"TextOverlay":{"Lines":[],"HasOverlay":false,"Message":"Text overlay is not provided as it is not requested"},"TextOrientation":"0","FileParseExitCode":1,"ParsedText":"UCDBZ95U9H Confirmed. Ksh20.OO sent to\r\nSAFARICOM POSTPAID BUNDLES for account\r\nSAFARICOM DATA BUNDLES on 13/3/26 at\r\n2:16 \"M. New M-PESA balance is Ksh115.OO.\r\nTransaction cost, KshO.OO.\r\n2:19 PM\r\n","ErrorMessage":"","ErrorDetails":""}],"OCRExitCode":1,"IsErroredOnProcessing":false,"ProcessingTimeInMilliseconds":"328","SearchablePDFURL":"Searchable PDF not generated as it was not requested."}
+CLEAN TEXT: UCDBZ95U9H Confirmed. Ksh20.OO sent to
+SAFARICOM POSTPAID BUNDLES for account
+SAFARICOM DATA BUNDLES on 13/3/26 at
+2:16 "M. New M-PESA balance is Ksh115.OO.
+Transaction cost, KshO.OO.
+2:19 PM
+
